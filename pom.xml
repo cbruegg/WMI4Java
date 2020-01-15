@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.profesorfalken</groupId>
     <artifactId>WMI4Java</artifactId>
-    <version>1.6.3</version>
+    <version>1.6.4-DN-Patch-1</version>
     <packaging>jar</packaging>
     
     
